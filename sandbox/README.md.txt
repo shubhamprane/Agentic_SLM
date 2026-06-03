@@ -1,0 +1,1 @@
+This folder acts as the isolated environment where the Agentic SLM creates, moves, and deletes files during testing.Irrelevant text file (not part of project).
