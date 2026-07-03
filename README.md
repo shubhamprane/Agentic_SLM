@@ -1,4 +1,4 @@
-# Agentic SLM
+# Agentic_SLM
 
 A **from-scratch agentic AI system** that autonomously organizes a messy filesystem. It generates its own training data, trains a custom BPE tokenizer, builds a ~3M parameter Transformer (Small Language Model), trains it on agentic reasoning sequences, and then deploys the model as an autonomous agent that can **observe, think, and act** in a sandboxed file system — creating directories, moving files, and deleting junk entirely on its own.
 
